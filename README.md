@@ -1,15 +1,15 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Pawan+Pandey;10%+coding,+90%+debugging..&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Pawan+Raj+Pandey;10%+coding,+90%+debugging..&center=true&size=20">
   </a>
 </h1>
 
-<h2 align="center">Django Rookie</h2>
+<h2 align="center">Django Enthusiast</h2>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirpandit&label=Profile%20views&color=0e75b6&style=flat" alt="amirpandit" /> </p>
-<h1 align="center">Hi 👋, I'm Pawan Pandey</h1>
-<h3 align="center">A passionate Backend developer.</h3>
+<h1 align="center">Hi 👋, I'm Pawan Raj Pandey</h1>
+<h3 align="center">Backend enthusiast and bug magnet</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzypawan&label=Profile%20views&color=0e75b6&style=flat" alt="ozzypawan" /> </p>
 
