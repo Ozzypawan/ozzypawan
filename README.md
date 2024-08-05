@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Pawan+Pandey;Happy+to+See+you.&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Pawan+Pandey;10%+coding,+90%+debugging..&center=true&size=20">
   </a>
 </h1>
 
