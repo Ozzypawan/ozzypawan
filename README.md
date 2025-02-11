@@ -1,5 +1,5 @@
 
-<h1 align="center">Backend Enthusiast</h1>
+<h1 align="center">Backend Developer</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp">
 
 <p align="left"> 
