@@ -1,12 +1,5 @@
 
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Pawan+Raj+Pandey;Django Developer..&center=true&size=20">
-  </a>
-</h1>
-
-<h2 align="center">Django Enthusiast</h2>
+<h1 align="center">Django Enthusiast</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp">
 
 <p align="left"> 
