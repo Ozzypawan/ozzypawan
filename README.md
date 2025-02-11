@@ -21,7 +21,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Django Framework At Ayata Incorporation**
+- 🔭 I’m currently working as **Django Developer At Ayata Incorporation**
 - 👨‍💻 All of my projects are available at [ozzypawan.com.np](http://pawanrajpandey.com.np)
 - 📫 How to reach me **pawanpandey1251@gmail.com**
 
