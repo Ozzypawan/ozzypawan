@@ -22,7 +22,7 @@
 </p>
 
 - 🔭 I’m currently working as **Django Developer At Ayata Incorporation**
-- 👨‍💻 All of my projects are available at [ozzypawan.com.np](http://pawanrajpandey.com.np)
+- 👨‍💻 All of my projects are available at [pawanrajpandey.com.np](http://pawanrajpandey.com.np)
 - 📫 How to reach me **pawanpandey1251@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
