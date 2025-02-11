@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Pawan+Raj+Pandey;10%+coding,+90%+debugging..&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Pawan+Raj+Pandey;Django Developer..&center=true&size=20">
   </a>
 </h1>
 
