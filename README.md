@@ -80,8 +80,7 @@
   class PawanRajPandey:
       def __init__(self):
           self.name = "Pawan Raj Pandey"
-          self.education = "BSc. CSIT Graduate"
-          self.experience = "5+ years on GitHub"
+          self.education = "BSc. CSIT Graduate""
           self.role = "Backend Developer"
           self.languages = ["Python", "JavaScript", "HTML", "CSS"]
           self.frameworks = ["Django"]
