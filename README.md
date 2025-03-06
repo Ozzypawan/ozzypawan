@@ -1,72 +1,102 @@
-<!-- GitHub Profile Header -->
-<h1 align="center">Hi 👋, I'm Pawan Raj Pandey</h1>
-<p align="center">Backend Developer | Django Enthusiast | Web Developer</p>
-<p align="center">
-  <img alt="Coding" width="250" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp" />
-</p>
+<div align="center">
+  
+  # Hi there, I'm Pawan Raj Pandey 👋
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Django+Enthusiast;BSc.+CSIT+Graduate;5%2B+Years+on+GitHub)](https://git.io/typing-svg)
 
-<!-- Profile Stats Section -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozzypawan&label=Profile%20views&color=00c6ff&style=flat" alt="ozzypawan" />
-</p>
+  <img alt="Coding" width="280" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp" />
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=ozzypawan&label=Profile%20views&color=00c6ff&style=flat" alt="ozzypawan" />
+    <a href="https://twitter.com/pawanpandey1251">
+      <img src="https://img.shields.io/twitter/follow/pawanpandey1251?logo=twitter&style=for-the-badge" alt="twitter" />
+    </a>
+    <a href="https://linkedin.com/in/pawan-r-6bb81422b">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin" />
+    </a>
+    <a href="https://stackoverflow.com/users/23755664">
+      <img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=for-the-badge" alt="stackoverflow" />
+    </a>
+  </p>
+</div>
 
-<!-- Badges and Social Links -->
-<p align="center">
-  <a href="https://twitter.com/pawanpandey1251">
-    <img src="https://img.shields.io/twitter/follow/pawanpandey1251?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
-  <a href="https://linkedin.com/in/pawan-r-6bb81422b">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin" />
-  </a>
-  <a href="https://stackoverflow.com/users/23755664">
-    <img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=for-the-badge" alt="stackoverflow" />
-  </a>
-</p>
+<div align="center">
+  
+  ## 🧑‍💻 About Me
+  
+  <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
+  
+  <p align="left" style="max-width: 600px; text-align: left;">
+    • BSc. CSIT Graduate passionate about web development<br>
+    • Backend Developer specializing in Django & Python<br>
+    • 5+ years on GitHub, building and contributing to projects<br>
+    • Currently working at Ayata Incorporation<br>
+    • Love building scalable and efficient web services<br>
+    • Always exploring innovative technologies
+  </p>
+  
+  <br clear="both"/>
+</div>
 
-<!-- About Me Section -->
-<h2 align="center">About Me</h2>
-<p align="center">
-  I'm a passionate Django developer with expertise in backend development. I love building scalable and efficient systems, especially in Python & Django. Currently working on an exciting project at Ayata Incorporation and exploring innovative ways to improve web services.
-</p>
+<div align="center">
+  
+  ## 🔗 Connect with Me
+  
+  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pawanpandey1251)
+  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-r-6bb81422b)
+  [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23755664)
+</div>
 
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://twitter.com/pawanpandey1251" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/pawan-r-6bb81422b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/23755664" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="40" width="40" />
-  </a>
-</p>
+<div align="center">
+  
+  ## 🛠️ Languages and Tools
+  
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
-<!-- Skills Section -->
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
-</p>
+<div align="center">
+  
+  ## 📊 GitHub Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzypawan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" width="49%" />
+  
+  ## 📈 Contribution Graph
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozzypawan&theme=tokyonight" alt="GitHub Activity Graph" width="100%" />
+</div>
 
-<!-- GitHub Stats -->
-<h3 align="center">GitHub Stats and Activity</h3>
+<div align="center">
+  
+  ## 💼 Current Focus
+  
+  ```python
+  class PawanRajPandey:
+      def __init__(self):
+          self.name = "Pawan Raj Pandey"
+          self.education = "BSc. CSIT Graduate"
+          self.experience = "5+ years on GitHub"
+          self.role = "Backend Developer"
+          self.languages = ["Python", "JavaScript", "HTML", "CSS"]
+          self.frameworks = ["Django"]
+          self.databases = ["MySQL"]
+          
+      def current_focus(self):
+          return "Building scalable web applications with Django"
+          
+      def future_goals(self):
+          return "Exploring cloud solutions and improving system architecture"
+  ```
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzypawan&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="48%" />
-</p>
-
-<!-- GitHub Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzypawan&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
-</p>
-
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ozzypawan&theme=github_dark" alt="GitHub Activity Graph" width="100%" />
-</p>
+<div align="center">
+  
+  ⭐️ From [ozzypawan](https://github.com/ozzypawan)
+</div>
