@@ -29,7 +29,6 @@
   <p align="left" style="max-width: 600px; text-align: left;">
     • BSc. CSIT Graduate passionate about web development<br>
     • Backend Developer specializing in Django & Python<br>
-    • 5+ years on GitHub, building and contributing to projects<br>
     • Currently working at Ayata Incorporation<br>
     • Love building scalable and efficient web services<br>
     • Always exploring innovative technologies
