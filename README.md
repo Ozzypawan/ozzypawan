@@ -65,13 +65,29 @@
   </a> 
 </p>
 
-<h3 align="left">Github Stats:</h3>
+<h3 align="left">GitHub Stats and Cool Features:</h3>
+
 <p align="left">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&locale=en&count_private=true&hide_title=true" alt="ozzypawan" />
+  <!-- GitHub Stats -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&count_private=true&hide_title=true" alt="ozzypawan" />
+  <!-- GitHub Streaks -->
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ozzypawan&" alt="ozzypawan" />
 </p>
 
-<h3 align="left">GitHub Contributions & Streaks:</h3>
 <p align="left">
+  <!-- GitHub Top Languages -->
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzypawan&layout=compact&show_icons=true&hide_title=true&langs_count=6&card_width=400" alt="ozzypawan" />
+</p>
+
+<p align="left">
+  <!-- GitHub Contributions Graph -->
   <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ozzypawan&bg_color=1e1e1e&color=ffffff&line=00ff00&point=ff00ff&area=true" alt="ozzypawan" />
 </p>
+
+<h3 align="left">Recent GitHub Activity:</h3>
+
+<p align="left">
+  <!-- Recent Activity -->
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ozzypawan&theme=github-compact&hide_title=true&hide_border=true&point=0f0f0f&area=true" alt="ozzypawan" />
+</p>
+
