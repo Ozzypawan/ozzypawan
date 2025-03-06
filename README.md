@@ -1,4 +1,3 @@
-
 <h1 align="center">Backend Developer</h1>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp">
 
@@ -21,7 +20,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working as **Django Developer At Ayata Incorporation**
+- 🔭 I’m currently working as **Django Developer at Ayata Incorporation**
 - 👨‍💻 All of my projects are available at [pawanrajpandey.com.np](http://pawanrajpandey.com.np)
 - 📫 How to reach me **pawanpandey1251@gmail.com**
 
@@ -66,14 +65,13 @@
   </a> 
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ozzypawan&show_icons=true&locale=en&layout=compact" alt="ozzypawan" />
+<h3 align="left">Github Stats:</h3>
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&locale=en&count_private=true&hide_title=true" alt="ozzypawan" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ozzypawan&" alt="ozzypawan" />
 </p>
 
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&locale=en" alt="ozzypawan" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozzypawan&" alt="ozzypawan" />
+<h3 align="left">GitHub Contributions & Streaks:</h3>
+<p align="left">
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ozzypawan&bg_color=1e1e1e&color=ffffff&line=00ff00&point=ff00ff&area=true" alt="ozzypawan" />
 </p>
