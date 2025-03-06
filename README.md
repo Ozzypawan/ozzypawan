@@ -2,7 +2,7 @@
   
   # Hi there, I'm Pawan Raj Pandey 👋
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Django+Enthusiast;BSc.+CSIT+Graduate;5%2B+Years+on+GitHub)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Django+Enthusiast;BSc.+CSIT+Graduate)](https://git.io/typing-svg)
 
   <img alt="Coding" width="280" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp" />
   
@@ -80,7 +80,7 @@
   class PawanRajPandey:
       def __init__(self):
           self.name = "Pawan Raj Pandey"
-          self.education = "BSc. CSIT Graduate""
+          self.education = "BSc. CSIT Graduate"
           self.role = "Backend Developer"
           self.languages = ["Python", "JavaScript", "HTML", "CSS"]
           self.frameworks = ["Django"]
