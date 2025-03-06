@@ -1,93 +1,72 @@
-<h1 align="center">Backend Developer</h1>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ozzypawan&label=Profile%20views&color=0e75b6&style=flat" alt="ozzypawan" /> 
+<!-- GitHub Profile Header -->
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #00c6ff;">Hi 👋, I'm Pawan Raj Pandey</h1>
+<p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; color: #ff91a4;">Backend Developer | Django Enthusiast | Web Developer</p>
+<p align="center">
+  <img alt="Coding" width="250" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Pawan Raj Pandey</h1>
-<h3 align="center">Django Enthusiast</h3>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ozzypawan" alt="ozzypawan" />
-  </a> 
+<!-- Profile Stats Section -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ozzypawan&label=Profile%20views&color=00c6ff&style=flat" alt="ozzypawan" />
 </p>
 
-<p align="left"> 
-  <a href="https://twitter.com/pawanpandey1251" target="blank">
-    <img src="https://img.shields.io/twitter/follow/pawanpandey1251?logo=twitter&style=for-the-badge" alt="pawanpandey1251" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working as **Django Developer at Ayata Incorporation**
-- 👨‍💻 All of my projects are available at [pawanrajpandey.com.np](http://pawanrajpandey.com.np)
-- 📫 How to reach me **pawanpandey1251@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://codepen.io/ragnarishere" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ragnarishere" height="30" width="40" />
+<!-- Badges and Social Links -->
+<p align="center">
+  <a href="https://twitter.com/pawanpandey1251">
+    <img src="https://img.shields.io/twitter/follow/pawanpandey1251?logo=twitter&style=for-the-badge" alt="twitter" />
   </a>
+  <a href="https://linkedin.com/in/pawan-r-6bb81422b">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="linkedin" />
+  </a>
+  <a href="https://stackoverflow.com/users/23755664">
+    <img src="https://img.shields.io/badge/StackOverflow-orange?logo=stackoverflow&style=for-the-badge" alt="stackoverflow" />
+  </a>
+</p>
+
+<!-- About Me Section -->
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #ff91a4;">About Me</h2>
+<p align="center" style="font-family: 'Arial', sans-serif; font-size: 18px; max-width: 600px; margin: 0 auto;">
+  I’m a passionate Django developer with expertise in backend development. I love building scalable and efficient systems, especially in Python & Django. Currently working on an exciting project at Ayata Incorporation and exploring innovative ways to improve web services.
+</p>
+
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #ff91a4;">Connect with Me</h3>
+<p align="center">
   <a href="https://twitter.com/pawanpandey1251" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawanpandey1251" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="40" width="40" />
   </a>
   <a href="https://linkedin.com/in/pawan-r-6bb81422b" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan-r-6bb81422b" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="40" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/23755664" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23755664" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="40" width="40" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a> 
+<!-- Skills Section -->
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #ff91a4;">Languages and Tools</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
 
-<h3 align="left">GitHub Stats and Cool Features:</h3>
-
-<p align="left">
-  <!-- GitHub Stats -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&count_private=true&hide_title=true" alt="ozzypawan" />
-  <!-- GitHub Streaks -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ozzypawan&" alt="ozzypawan" />
+<!-- GitHub Stats and Graph -->
+<h3 align="center" style="font-family: 'Arial', sans-serif; color: #ff91a4;">GitHub Stats and Activity</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&hide_title=true&hide_border=true&theme=dark" alt="ozzypawan" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozzypawan&theme=dark&hide_title=true&hide_border=true" alt="streaks" width="49%" />
 </p>
 
-<p align="left">
-  <!-- GitHub Top Languages -->
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzypawan&layout=compact&show_icons=true&hide_title=true&langs_count=6&card_width=400" alt="ozzypawan" />
+<!-- GitHub Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozzypawan&layout=compact&hide_title=true&langs_count=8&theme=dark&hide_border=true" alt="top-languages" />
 </p>
 
-<p align="left">
-  <!-- GitHub Contributions Graph -->
-  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ozzypawan&bg_color=1e1e1e&color=ffffff&line=00ff00&point=ff00ff&area=true" alt="ozzypawan" />
-</p>
-
-<h3 align="left">Recent GitHub Activity:</h3>
-
-<p align="left">
-  <!-- Recent Activity -->
-  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ozzypawan&theme=github-compact&hide_title=true&hide_border=true&point=0f0f0f&area=true" alt="ozzypawan" />
+<!-- Activity Graph -->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ozzypawan&bg_color=1e1e1e&color=ffffff&line=00ff00&point=ff00ff&area=true" alt="activity-graph" />
 </p>
 
