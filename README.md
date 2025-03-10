@@ -74,27 +74,5 @@
 
 <div align="center">
   
-  ## 💼 Current Focus
-  
-  ```python
-  class PawanRajPandey:
-      def __init__(self):
-          self.name = "Pawan Raj Pandey"
-          self.education = "BSc. CSIT Graduate"
-          self.role = "Backend Developer"
-          self.languages = ["Python", "JavaScript", "HTML", "CSS"]
-          self.frameworks = ["Django"]
-          self.databases = ["MySQL"]
-          
-      def current_focus(self):
-          return "Building scalable web applications with Django"
-          
-      def future_goals(self):
-          return "Exploring cloud solutions and improving system architecture"
-  ```
-</div>
-
-<div align="center">
-  
   ⭐️ From [ozzypawan](https://github.com/ozzypawan)
 </div>
