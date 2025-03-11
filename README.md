@@ -1,9 +1,6 @@
 <div align="center">
   
   # Hi there, I'm Pawan Raj Pandey 👋
-
-  <img alt="Coding" width="280" src="https://i.giphy.com/5eLDrEaRGHegx2FeF2.webp" />
-  
   <p>
     <img src="https://komarev.com/ghpvc/?username=ozzypawan&label=Profile%20views&color=00c6ff&style=flat" alt="ozzypawan" />
     <a href="https://twitter.com/pawanpandey1251">
