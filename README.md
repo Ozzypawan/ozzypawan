@@ -17,7 +17,7 @@
 
 <div align="center">
   
-  <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
+  <img align="center" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
   
   
   <br clear="both"/>
