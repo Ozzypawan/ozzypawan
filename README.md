@@ -17,17 +17,8 @@
 
 <div align="center">
   
-  ## 🧑‍💻 About Me
-  
   <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
   
-  <p align="left" style="max-width: 600px; text-align: left;">
-    • BSc. CSIT Graduate passionate about web development<br>
-    • Backend Developer specializing in Django & Python<br>
-    • Currently working at Ayata Incorporation<br>
-    • Love building scalable and efficient web services<br>
-    • Always exploring innovative technologies
-  </p>
   
   <br clear="both"/>
 </div>
