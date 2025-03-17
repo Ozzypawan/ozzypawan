@@ -62,6 +62,4 @@ I'm a Django backend developer with a strong foundation in Python and a passion 
 [![Website](https://img.shields.io/badge/Website-00a8e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pawanrajpandey.com.np)
   
 </div>
----
 
-⭐️ From [ozzypawan](https://github.com/ozzypawan)
