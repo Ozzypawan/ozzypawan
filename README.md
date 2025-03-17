@@ -2,7 +2,7 @@
   
 # Pawan Raj Pandey
 
-### Django Backend Developer | Python Enthusiast | Breaking Bad Fan
+### Django Backend Developer 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ozzypawan&label=Profile%20views&color=6e5494&style=flat-square)](https://github.com/ozzypawan)
 [![Twitter Follow](https://img.shields.io/twitter/follow/pawanpandey1251?style=social)](https://twitter.com/pawanpandey1251)
