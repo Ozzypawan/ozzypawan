@@ -10,17 +10,17 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/23755664)
 [![Website](https://img.shields.io/badge/Website-pawanrajpandey.com.np-00a8e8?style=flat-square&logo=google-chrome)](https://pawanrajpandey.com.np)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Django+Developer;Python+Wrangler;CSS+Apprentice;Breaking+Bad+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Django+Developer;Python+Expert;Heisenberg+of+Code;Breaking+Bad+Enthusiast" alt="Typing SVG" />
 
-<img align="center" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
+<img align="center" width="400" src="https://media.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif" alt="Heisenberg GIF" />
 
 </div>
 
 ## 👨‍💻 About Me
 
-> "They say Python eats other languages for breakfast. I'm just here trying not to spill coffee on my keyboard while debugging." 
+> "I am the one who codes." - Heisenberg (probably)
 
-I'm a junior Django backend developer with a curiosity for frontend technologies. When my code works on the first try, I stare suspiciously at my screen, wondering what I did wrong. Currently building web applications and occasionally convincing CSS not to hate me. Breaking Bad is my inspiration - not for cooking, but for the dedication to craft!
+I'm a Django backend developer with a strong foundation in Python and a passion for building scalable web applications. When I'm not debugging or wrestling with CSS, I'm probably binge-watching Breaking Bad and drawing inspiration from Walter White's meticulous attention to detail. My goal is to craft clean, efficient, and maintainable code that just works.
 
 ## 🚀 Skills & Technologies
 
@@ -68,7 +68,7 @@ I'm a junior Django backend developer with a curiosity for frontend technologies
 </div>
 
 <div align="center">
-  <img src="https://i.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.webp" width="300" alt="Breaking Bad GIF" />
+  <img src="https://media.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif" width="300" alt="Heisenberg GIF" />
   <p><i>"Say my name." - "Heisenberg"</i></p>
 </div>
 
