@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-> "I am the one who codes." - Heisenberg (probably)
+> "I am the one who codes."
 
 I'm a Django backend developer with a strong foundation in Python and a passion for building scalable web applications. When I'm not debugging or wrestling with CSS, I'm probably binge-watching Breaking Bad and drawing inspiration from Walter White's meticulous attention to detail. My goal is to craft clean, efficient, and maintainable code that just works.
 
