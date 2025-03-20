@@ -26,8 +26,12 @@ I'm a Django backend developer with a strong foundation in Python and a passion 
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ozzypawan&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
+[![GitHub Streak](https://streak-stats.demolab.com?user=ozzypawan&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzypawan&layout=compact&theme=dark&hide_border=true)](https://github.com/ozzypawan/github-readme-stats)
+
 </div>
 
 ## 🚀 Skills & Technologies
