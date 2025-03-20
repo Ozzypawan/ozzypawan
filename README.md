@@ -22,18 +22,6 @@
 
 I'm a Django backend developer with a strong foundation in Python and a passion for building scalable web applications. When I'm not debugging or wrestling with CSS, I'm probably binge-watching Breaking Bad and drawing inspiration from Walter White's meticulous attention to detail. My goal is to craft clean, efficient, and maintainable code that just works.
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=ozzypawan&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-![Pawan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzypawan&layout=compact&theme=dark&hide_border=true)](https://github.com/ozzypawan/github-readme-stats)
-
-</div>
-
 ## 🚀 Skills & Technologies
 
 <div align="center">
