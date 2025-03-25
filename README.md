@@ -2,6 +2,7 @@
 
 # Pawan Raj Pandey
 
+
 ### Django Backend Developer 
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ozzypawan&label=Profile%20views&color=6e5494&style=flat-square)](https://github.com/ozzypawan)
