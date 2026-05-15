@@ -9,7 +9,7 @@
   [![Website](https://img.shields.io/badge/Website-pawanrajpandey.com.np-00a8e8?style=flat-square&logo=google-chrome)](https://pawanrajpandey.com.np)
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" />
-  <br>
+  <br><br>
   <img align="center" width="400" src="https://media.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif" alt="Heisenberg GIF" />
 </div>
 
@@ -33,7 +33,7 @@ I'm a Backend Developer specializing in Django and FastAPI. Focused on scalable 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Tools & Others**  
+**Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
@@ -42,13 +42,31 @@ I'm a Backend Developer specializing in Django and FastAPI. Focused on scalable 
 </div>
 
 ## 📚 Currently Learning
-- Kubernetes • Advanced DevOps
 
-## 🚀 Projects
-- **Attendance Management System** — Ayata Incorporation
-- **Multi-Module SaaS Platform** — Zeta Labs
-- **Support Intelligence System** — Zeta Labs
-- **Human Resource Management System** — Zeta Labs
+<div align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/DevOps-FF9900?style=for-the-badge&logo=devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+</div>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+**Attendance Management System**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django) • Ayata Incorporation
+
+**Multi-Module SaaS Platform**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) • Zeta Labs
+
+**Support Intelligence System**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) • Zeta Labs
+
+**Human Resource Management System**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django) • Zeta Labs
+
+</div>
 
 ## 🔗 Connect with Me
 
