@@ -11,7 +11,7 @@
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Profile-orange?style=flat-square&logo=stackoverflow)](https://stackoverflow.com/users/23755664)
 [![Website](https://img.shields.io/badge/Website-pawanrajpandey.com.np-00a8e8?style=flat-square&logo=google-chrome)](https://pawanrajpandey.com.np)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Django+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" />
 
 <img align="center" width="400" src="https://media.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif" alt="Heisenberg GIF" />
 
