@@ -12,53 +12,61 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E5494&center=true&vCenter=true&width=435&lines=Backend+Developer" />
 
+<img align="center" width="400" src="https://media.giphy.com/media/3oFzmkkwfOGlzZ0gxi/giphy.gif" alt="Heisenberg GIF" />
+
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
-Backend Developer specializing in Django, FastAPI, and Python. Focused on building scalable APIs, distributed systems, and production-ready backend architectures. Currently exploring system design, microservices, and cloud-native technologies.
+I'm a Backend Developer specializing in Django and FastAPI, focused on building scalable APIs, distributed systems, and production-ready backend applications. I work with microservices, asynchronous systems, and modern backend architectures.
 
 ---
 
-## Skills & Technologies
+## 🚀 Skills & Technologies
 
-### Backend Core
-- Python
-- Django
-- FastAPI
-- REST APIs
+<div align="center">
+
+### Backend Expertise
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### System Design & Architecture
 - Microservices Architecture
+- REST APIs
 - gRPC
 - Event-driven systems
 
-### Messaging & Async
+### Messaging & Async Systems
 - RabbitMQ
 - Celery
 - Redis
 
 ### Databases & Search
-- PostgreSQL
-- MySQL
-- SQLite
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 - MongoDB
 - Qdrant
 
 ### DevOps & Tools
-- Docker
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 - CI/CD (GitHub Actions)
 - Linux
 
+</div>
+
 ---
 
-## Currently Learning
+## 📚 Currently Learning
 - Kubernetes
-- DevOps
+- DevOps (deployment, scaling, observability)
 
 ---
 
-## Projects
+## 🚀 Projects
 
 ### Ayata Incorporation
 - Attendance Management System (Django)
@@ -70,17 +78,14 @@ Backend Developer specializing in Django, FastAPI, and Python. Focused on buildi
 
 ---
 
-## GitHub Stats
+## 🔗 Connect with Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ozzypawan&show_icons=true&theme=tokyonight)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ozzypawan&layout=compact&theme=tokyonight)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/pawanpandey1251)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pawan-r-6bb81422b)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23755664)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ozzypawan)
+[![Website](https://img.shields.io/badge/Website-00a8e8?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pawanrajpandey.com.np)
 
----
-
-## Connect with Me
-
-- LinkedIn: https://linkedin.com/in/pawan-r-6bb81422b
-- Twitter: https://twitter.com/pawanpandey1251
-- Stack Overflow: https://stackoverflow.com/users/23755664
-- Website: https://pawanrajpandey.com.np
+</div>
