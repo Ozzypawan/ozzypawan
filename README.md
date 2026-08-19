@@ -51,17 +51,20 @@ I'm a Backend Developer specializing in Django and FastAPI. Focused on scalable 
 
 <div align="center">
 
-**Attendance Management System**  
+**iHRTrack**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django) • Ayata Incorporation
 
-**Multi-Module SaaS Platform**  
+**Process Orchestration**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi) • Zeta Labs
 
-**Support Intelligence System**  
+**System Intelligence Service**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python) • Zeta Labs
 
-**Human Resource Management System**  
+**Zeta Health**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django) • Zeta Labs
+
+**Leo Club of Kathmandu Budigandaki**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react) • Volunteer, IT Lead
 
 </div>
 
